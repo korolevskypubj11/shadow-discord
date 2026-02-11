@@ -1,0 +1,60 @@
+{
+    "1": {
+        "user_id": 1182374761750347890,
+        "channel_id": 1470404671393763534,
+        "department": "Жалоба-дискорд",
+        "reason": "тест",
+        "description": "тест тытыт",
+        "status": "Закрыт",
+        "created_at": "2026-02-09 14:03:12.302018",
+        "history": [
+            {
+                "action": "Взял на рассмотрение",
+                "moderator": "pakwol",
+                "details": "",
+                "timestamp": "2026-02-09 14:03:16.499661"
+            },
+            {
+                "action": "Ответ",
+                "moderator": "pakwol",
+                "details": "123",
+                "timestamp": "2026-02-09 14:03:21.896611"
+            },
+            {
+                "action": "Закрыл обращение",
+                "moderator": "pakwol",
+                "details": "",
+                "timestamp": "2026-02-09 14:03:24.367740"
+            }
+        ]
+    },
+    "2": {
+        "user_id": 1182374761750347890,
+        "channel_id": 1471247727588409570,
+        "department": "Жалоба-дискорд",
+        "reason": "тест",
+        "description": "тест 123456",
+        "status": "Закрыт",
+        "created_at": "2026-02-11 21:53:09.197029",
+        "history": [
+            {
+                "action": "Взял на рассмотрение",
+                "moderator": "pakwol",
+                "details": "",
+                "timestamp": "2026-02-11 22:04:58.876116"
+            },
+            {
+                "action": "Ответ",
+                "moderator": "pakwol",
+                "details": "123",
+                "timestamp": "2026-02-11 22:05:02.210049"
+            },
+            {
+                "action": "Закрыл обращение",
+                "moderator": "pakwol",
+                "details": "",
+                "timestamp": "2026-02-11 22:05:03.842003"
+            }
+        ]
+    }
+}

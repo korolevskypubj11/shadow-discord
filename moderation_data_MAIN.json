@@ -1,0 +1,77 @@
+{
+    "warns": {},
+    "report_bans": [],
+    "stats": {
+        "1214954153777037353": {
+            "bans": 7,
+            "mutes": 1,
+            "warns": 2,
+            "others": 8
+        }
+    },
+    "economy": {},
+    "appeal_count": 6,
+    "ban_roles_backup": {
+        "1182374761750347890_1469452616281882811": [],
+        "1182374761750347890_1469627831494508558": []
+    },
+    "active_bans": {
+        "1182374761750347890_global": {
+            "type": "Global",
+            "reason": "Не указана",
+            "moderator": 1214954153777037353,
+            "timestamp": "2026-02-12 00:01:20.420144",
+            "until": "Навсегда"
+        }
+    },
+    "history": {
+        "1182374761750347890": [
+            {
+                "type": "BAN",
+                "moderator": 1214954153777037353,
+                "reason": "Не указана",
+                "duration": "Навсегда",
+                "timestamp": "2026-02-11 23:20:37.641081",
+                "status": "Active"
+            },
+            {
+                "type": "MUTE",
+                "moderator": 1214954153777037353,
+                "reason": "Не указана",
+                "duration": "12121 мин.",
+                "timestamp": "2026-02-11 23:20:43.875073",
+                "status": "Inactive"
+            },
+            {
+                "type": "WARN",
+                "moderator": 1214954153777037353,
+                "reason": "Не указана",
+                "duration": "1/3",
+                "timestamp": "2026-02-11 23:30:46.937666",
+                "status": "Active"
+            },
+            {
+                "type": "WARN",
+                "moderator": 1214954153777037353,
+                "reason": "Не указана",
+                "duration": "2/3",
+                "timestamp": "2026-02-11 23:30:47.598415",
+                "status": "Active"
+            },
+            {
+                "type": "BAN",
+                "moderator": 1469471101099966789,
+                "reason": "3/3 варна",
+                "duration": "7 дней",
+                "timestamp": "2026-02-11 23:30:50.188253",
+                "status": "Active"
+            }
+        ]
+    },
+    "role_shop": {
+        "1471254586429014058": {
+            "price": 121111111111,
+            "role_id": 1471254586429014058
+        }
+    }
+}

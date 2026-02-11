@@ -1,0 +1,26 @@
+{
+    "1214954153777037353": {
+        "balance": 645663,
+        "last_daily": null,
+        "last_bonus": null,
+        "streak": 0,
+        "inventory": {
+            "cases": 21300,
+            "role_tickets": 0
+        },
+        "active_effects": {},
+        "custom_role_id": 1471254586429014058
+    },
+    "1182374761750347890": {
+        "balance": 11084725,
+        "last_daily": null,
+        "last_bonus": null,
+        "streak": 0,
+        "inventory": {
+            "cases": 66
+        },
+        "active_effects": {
+            "no_fee": "2026-02-16T21:57:49.264078"
+        }
+    }
+}

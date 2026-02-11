@@ -1,0 +1,80 @@
+{
+    "1": {
+        "user_id": 1182374761750347890,
+        "channel_id": 1470482949181804565,
+        "department": "Жалоба-дискорд",
+        "reason": "tets",
+        "description": "tetststststs",
+        "status": "Открыт",
+        "created_at": "2026-02-09 19:14:14.746830",
+        "history": []
+    },
+    "2": {
+        "user_id": 1182374761750347890,
+        "channel_id": 1470523368351469824,
+        "department": "Жалоба-дискорд",
+        "reason": "hdhdj",
+        "description": "sjjsjsjsjks",
+        "status": "Закрыт",
+        "created_at": "2026-02-09 21:54:51.723814",
+        "history": [
+            {
+                "action": "Взял на рассмотрение",
+                "moderator": "pakwol",
+                "details": "",
+                "timestamp": "2026-02-09 21:55:03.984694"
+            },
+            {
+                "action": "Ответ",
+                "moderator": "pakwol",
+                "details": "123",
+                "timestamp": "2026-02-09 21:55:08.155223"
+            },
+            {
+                "action": "Закрыл обращение",
+                "moderator": "pakwol",
+                "details": "",
+                "timestamp": "2026-02-09 21:55:09.993551"
+            }
+        ]
+    },
+    "3": {
+        "user_id": 1182374761750347890,
+        "channel_id": 1470763675706069053,
+        "department": "Жалоба-дискорд",
+        "reason": "тест",
+        "description": "тест 12345",
+        "status": "Закрыт",
+        "created_at": "2026-02-10 13:49:45.140284",
+        "history": [
+            {
+                "action": "Взял на рассмотрение",
+                "moderator": "pakwol",
+                "details": "",
+                "timestamp": "2026-02-10 15:32:39.802364"
+            },
+            {
+                "action": "Ответ",
+                "moderator": "pakwol",
+                "details": "qwqw",
+                "timestamp": "2026-02-10 15:32:43.854539"
+            },
+            {
+                "action": "Закрыл обращение",
+                "moderator": "pakwol",
+                "details": "",
+                "timestamp": "2026-02-10 15:32:48.243516"
+            }
+        ]
+    },
+    "4": {
+        "user_id": 1182374761750347890,
+        "channel_id": 1470763775710728276,
+        "department": "Вопрос",
+        "reason": "тест",
+        "description": "тест 12345",
+        "status": "Открыт",
+        "created_at": "2026-02-10 13:50:08.888153",
+        "history": []
+    }
+}

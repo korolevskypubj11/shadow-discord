@@ -1,0 +1,64 @@
+{
+    "appeal_count": 9,
+    "stats": {
+        "1214954153777037353": {
+            "bans": 10,
+            "mutes": 2,
+            "warns": 7,
+            "others": 23
+        }
+    },
+    "temp_roles": {},
+    "ban_roles_backup": {
+        "798935014590382100": [
+            1469627991586898087,
+            1469627864298291355
+        ]
+    },
+    "active_bans": {},
+    "warns": {
+        "1182374761750347890": [
+            {
+                "moderator": 1214954153777037353,
+                "reason": "Не указана",
+                "timestamp": "2026-02-08 17:45:35.099873"
+            },
+            {
+                "moderator": 1214954153777037353,
+                "reason": "Не указана",
+                "timestamp": "2026-02-08 17:45:39.194747"
+            },
+            {
+                "moderator": 1214954153777037353,
+                "reason": "Не указана",
+                "timestamp": "2026-02-08 17:45:42.576782"
+            }
+        ]
+    },
+    "economy": {
+        "1214954153777037353": {
+            "balance": 0,
+            "last_daily": "2026-02-08T21:42:50.082093",
+            "last_bonus": "2026-02-08T21:03:48.632760",
+            "streak": 1,
+            "inventory": {
+                "cases": 3040,
+                "role_tickets": 0
+            },
+            "custom_role_id": 1470378079095492671,
+            "active_effects": {
+                "multiplier": "2026-02-14T11:52:07.111631",
+                "no_fee": "2026-02-14T11:51:57.065930"
+            }
+        },
+        "1182374761750347890": {
+            "balance": 76,
+            "last_daily": null,
+            "last_bonus": null,
+            "streak": 0,
+            "inventory": {},
+            "active_effects": {}
+        }
+    },
+    "role_shop": {}
+}

@@ -1,0 +1,29 @@
+{
+    "1182374761750347890": {
+        "balance": 13210493,
+        "last_daily": null,
+        "last_bonus": null,
+        "streak": 0,
+        "inventory": {
+            "cases": 0
+        },
+        "active_effects": {},
+        "custom_role_id": 1470788554195075117
+    },
+    "1214954153777037353": {
+        "balance": 11123515,
+        "last_daily": "2026-02-11T21:57:33.520839",
+        "last_bonus": null,
+        "streak": 1,
+        "inventory": {},
+        "active_effects": {}
+    },
+    "798935014590382100": {
+        "balance": -1149161439068,
+        "last_daily": null,
+        "last_bonus": null,
+        "streak": 0,
+        "inventory": {},
+        "active_effects": {}
+    }
+}
